@@ -57,5 +57,5 @@ Implement a more detailed student dashboard with progress tracking.
 
 ---
 
-This README provides a summary of your project, guiding users on the project’s functionality, setup, and usage. Let me know if you'd like more details or sections included.
+This README provides a summary of my project, guiding users on the project’s functionality, setup, and usages.
 
