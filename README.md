@@ -1,61 +1,65 @@
+# 🚀 Prateek Mohanty's Portfolio
 
-Courseware
-
-Overview
-
-Courseware is a full-stack college website built to provide students with an easy-to-use interface for accessing essential course-related information, including course details, syllabus, videos, and teacher information. Developed with React.js for the front end and Spring Boot for the back end, this platform is designed to support role-based access control for enhanced security.
-
-Features
-
-User-friendly Interface: Students can easily navigate and access course materials, syllabus, and teacher details.
-
-Role-Based Access Control (RBAC): Ensures security by restricting admin functionalities to authorized personnel and preventing unauthorized access to certain features.
-
-Admin Capabilities: Admins have full control over adding, accessing, and modifying course and teacher information.
-
-
-Technologies Used
-
-Frontend: React.js
-
-Backend: Spring Boot
-
-API: RESTful APIs
-
-Setup and Installation
-
-1. Backend Setup:
-
-Clone the repository and navigate to the backend directory.
-
-Use Maven to build and run the Spring Boot application.
-
-
-
-2. Frontend Setup:
-
-Navigate to the frontend directory.
-
-Install the required dependencies using npm install.
-
-Start the React development server with npm start.
-
-
-Usage
-
-Student Role: Allows students to view courses, syllabus, videos, and teacher information.
-
-Admin Role: Grants access to manage course and teacher information.
-
-Future Improvements
-
-Add additional user roles with varying permissions.
-
-Implement a more detailed student dashboard with progress tracking.
-
-
+Welcome to my GitHub! I'm **Prateek Mohanty**, a passionate and innovative Computer Science Engineering graduate with a strong foundation in full-stack development and web technologies. I love building projects that solve real-world problems and enhance user experiences. 🚀
 
 ---
 
-This README provides a summary of my project, guiding users on the project’s functionality, setup, and usages.
+## 🧑‍💻 About Me
+
+I specialize in creating **responsive, user-friendly applications** and have 1 year of experience in web application development. Here's a glimpse of what I bring to the table:
+
+- **Languages:** Java, HTML, CSS, JavaScript, SQL
+- **Frameworks & Tools:** React, Spring Boot, Bootstrap, MySQL, Android Studio
+- **Focus:** Debugging, Enhancing UX, Streamlining Processes
+- **Key Achievement:** Improved project delivery times by 30% during my internships at NALCO and DevsIndia. 🎯
+
+---
+
+## 🌟 Notable Projects
+
+### 1. **Full-Stack E-commerce Website** 🛒
+   - **Technologies:** React, Node.js, MongoDB, Express
+   - A complete e-commerce platform featuring user authentication, product management, and payment integration.
+
+### 2. **Netflix Clone** 🍿
+   - **Technologies:** HTML, CSS, JavaScript
+   - A fully responsive Netflix clone with adaptive design for various screen sizes, replicating the original website's features.
+
+### 3. **Courseware Project** 📚
+   - **Technologies:** React, Spring Boot
+   - A platform for managing and delivering online courses, complete with features for course enrollment, progress tracking, and more.
+
+---
+
+## 🛠️ Skills
+
+- **Web Development:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend Development:** Spring Boot, Node.js
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Mobile Development:** Java, Android Studio
+
+---
+
+## 📞 Contact Me
+
+I’m always open to collaborating and learning new things! Feel free to reach out to me:
+
+- **LinkedIn:** [Prateek Mohanty](https://www.linkedin.com/in/prateek-mohanty-b96314197) 📬
+- **GitHub:** [Prateek-2901](https://github.com/Prateek-2901) 💻
+- **Email:** [prateek.mohanty29tegaan.com](mailto:prateek.mohanty29tegaan.com) 📧
+- **Phone:** +919837445914 📱
+
+---
+
+## 📈 GitHub Stats
+
+![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek-2901&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+## 🚀 Let's Connect and Build Something Amazing!
+
+Thank you for visiting my GitHub! 😄 I'm excited about the future and eager to contribute to new, exciting projects. Let's make an impact together! 💡
+
 
